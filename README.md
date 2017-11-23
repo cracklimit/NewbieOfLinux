@@ -1,0 +1,2 @@
+# NewbieOfLinux
+Newbie of Linux.
